@@ -9,6 +9,7 @@ import { GithubDetailsComponent } from './github-details/github-details.componen
 import { GithubFormComponent } from './github-form/github-form.component';
 import { HighlightDirective } from './highlight.directive';
 import { DateCountPipe } from './date-count.pipe';
+import {HashLocationStrategy, LocationStrategy } from '@angular/common';
 
 
 
@@ -27,7 +28,9 @@ import { DateCountPipe } from './date-count.pipe';
     HttpClientModule,
     AppRoutingModule
   ],
-  providers: [],
+  providers: [ {provide: LocationStrategy, useClass: HashLocationStrategy}],
   bootstrap: [AppComponent]
+
+
 })
 export class AppModule { }
