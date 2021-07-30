@@ -1,4 +1,15 @@
-# API
+
+# PROJECT NAME
+Github API
+## Developer
+ Mary Kamau
+## Description
+This a website that returns data fetched from Github.
+
+## Live site
+marykamau2.github.io/github-api/
+
+## About
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
 
@@ -21,7 +32,20 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 ## Running end-to-end tests
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Known Bugs
+No known bugs yet
+## Technologies Used
+* HTML5
+* CSS
+* AngularCLI
+* Bootstrap
+* markdown
 
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Support and contact details
+If you want to contact me, email me on mmarynjerikamau@gmail.com
+### License
+[MIT Licence](https://choosealicense.com/licenses/mit/)
+Copyright (c) 2021 mary Inc.
