@@ -7,7 +7,7 @@ Github API
 This a website that returns data fetched from Github.
 
 ## Live site
-marykamau2.github.io/github-api/
+https://marykamau2.github.io/Github-Api/
 
 ## About
 
